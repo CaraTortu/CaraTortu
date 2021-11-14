@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caratortu&label=Profile%20views&color=0e75b6&style=flat" alt="caratortu" /> </p>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **c**
 
 - 👨‍💻 My website [https://javier.ie](https://javier.ie)
 
