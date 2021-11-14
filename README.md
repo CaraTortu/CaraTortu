@@ -20,4 +20,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/javierDJ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="javierDJ" /></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=caratortu&show_icons=true&locale=en&layout=compact" alt="caratortu" /></p>
+<p><a href="https://www.buymeacoffee.com/javierDJ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="javierDJ" /></a><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=caratortu&show_icons=true&locale=en&layout=compact" alt="caratortu" /></p>
