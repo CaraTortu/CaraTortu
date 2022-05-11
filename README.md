@@ -7,8 +7,6 @@
 
 - 👨‍💻 My website [https://javier.ie](https://javier.ie)
 
-- 📝 I regularly write articles on [https://blog.javier.ie](https://blog.javier.ie)
-
 - 💬 Ask me about **cybersecurity and python!**
 
 - 📫 How to reach me **javier@javier.ie**
