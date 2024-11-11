@@ -7,8 +7,6 @@
 
 - How to reach me **javier@javier.ie**
 
-- My last project: A Linux From Scratch build!
-
 - My hacking profiles:
   - https://tryhackme.com/p/Caratortu
   - https://www.hackthebox.com/home/users/profile/301240 
