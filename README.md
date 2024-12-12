@@ -10,8 +10,6 @@
 - My hacking profiles:
   - https://tryhackme.com/p/Caratortu
   - https://www.hackthebox.com/home/users/profile/301240 
-- My coding profiles:
-  - https://www.hackerrank.com/javierdj
 - My blog where I post writeups:
   - https://blog.javier.ie
 
