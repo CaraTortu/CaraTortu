@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/javier-díaz-094b33269" target="_blank">
+  <a href="https://www.linkedin.com/in/javier-díaz-094b33269" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://tryhackme.com/p/Caratortu" target="_blank">
@@ -33,7 +33,7 @@ How to reach me: javier@javier.ie
 
 My hacking profiles:
   - https://tryhackme.com/p/Caratortu
-  - https://www.hackthebox.com/home/users/profile/301240
+  - https://app.hackthebox.com/profile/301240
   
 My blog where I post writeups: 
   - https://blog.javier.ie
